@@ -12,4 +12,3 @@ to sediments. They can be lost through erosion,
 and more sediment can cause more phosphorus to
 become tied with sediment.
 
-ADD TRENDLINE, ETC

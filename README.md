@@ -1,7 +1,7 @@
 # stream_data
 
 
-- Calculate Shannon Diversity of different species in streams
+Calculates Shannon Diversity of different species in streams and plots diversity in scatterplot, then performs linear regression.
 
 As fine sediment in the streambed increases,
 Shannon diversity is decreased. This could be due
